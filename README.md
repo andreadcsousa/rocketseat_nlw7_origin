@@ -17,12 +17,11 @@
 
 # :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com:
-
 <img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100"><img src="./files/javascript.svg" width="100">
 
-Integrou o projeto:
+# :package: Recursos
 
+### JSON
 <img src="./files/json.svg" alt="json" width="100">
 
 # :iphone: Layout Mobile
